@@ -1,26 +1,26 @@
 {
-  "totalSolved": 3,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-06-23",
-  "todayCount": 3,
+  "totalSolved": 4,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-06-24",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
     "medium": 0,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
     "LeetCode_Find_Missing_Elements": true,
-    "LeetCode_Missing_Number": true
+    "LeetCode_Missing_Number": true,
+    "GeeksForGeeks_Reverse_a_String": true
   },
   "activityHistory": {
-    "2026-06-23": 3
+    "2026-06-23": 3,
+    "2026-06-24": 1
   },
   "todayProblems": [
-    "Two Sum",
-    "Find Missing Elements",
-    "Missing Number"
+    "Reverse a String"
   ]
 }
